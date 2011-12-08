@@ -1,0 +1,3 @@
+# Interm Compiled Files
+bin/*.js
+bin/*.coffee
